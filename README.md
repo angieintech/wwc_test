@@ -1,2 +1,2 @@
 # wwc_test
-this is a test to understand git and Github
+This is a repo test to understand git and Github workflow
